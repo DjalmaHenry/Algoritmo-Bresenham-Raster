@@ -1,6 +1,3 @@
-# Algoritmo-Bresenham-Raster
-Algoritmo de Bresenham que Cria um Raster com as respostas do Ponto Médio.
-
 <h1 align="center">
   Algoritmo de Bresenham
 </h1>
